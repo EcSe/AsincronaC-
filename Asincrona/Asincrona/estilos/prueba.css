@@ -1,0 +1,26 @@
+﻿body {
+    background-color:lightblue;
+}
+.Titulo{
+    background-color:navy;
+    color:white;
+    font-size:xx-large;
+}
+.Subtitulo{
+
+    background-color:white;
+    color:navy;
+    font-size:x-large;
+}
+.Boton{
+    width:100px;
+    height:30px;
+    border-radius:25%;
+    background-color:navy;
+    color:white
+}
+.Boton:hover{
+    background-color:white;
+    color:navy;
+    cursor:pointer;
+}
